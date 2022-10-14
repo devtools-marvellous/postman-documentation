@@ -1,12 +1,12 @@
 {
-    "name": "attract-cores/postman-documentation",
+    "name": "yurenery/postman-documentation",
     "description": "Package description",
     "type": "library",
     "version": "1.2.10",
     "authors": [
         {
-            "name": "Sereda Oleg",
-            "email": "zaxodu11@gmail.com"
+            "name": "Yure Nery",
+            "email": "yurenery@gmail.com"
         }
     ],
     "require": {
