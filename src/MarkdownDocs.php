@@ -10,7 +10,7 @@ use Illuminate\Support\Arr;
  * @package AttractCores\PostmanDocumentation
  * Date: 17.12.2021
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class MarkdownDocs implements \Stringable
 {

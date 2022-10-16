@@ -13,7 +13,7 @@ use Illuminate\Support\Arr;
  * @package AttractCores\PostmanDocumentation\Macros
  * Date: 10.01.2022
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 trait RouteCallbacks
 {

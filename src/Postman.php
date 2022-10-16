@@ -15,7 +15,7 @@ use Illuminate\Routing\Router;
  * @package AttractCores\PostmanDocumentation
  * Date: 01.12.2021
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class Postman
 {

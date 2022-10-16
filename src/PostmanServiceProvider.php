@@ -12,7 +12,7 @@ use Illuminate\Support\ServiceProvider;
  * @package AttractCores\PostmanDocumentation
  * Date: 22.12.2021
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class PostmanServiceProvider extends ServiceProvider
 {

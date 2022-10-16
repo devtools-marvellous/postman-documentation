@@ -10,7 +10,7 @@ use Illuminate\Routing\ResourceRegistrar;
  * @package AttractCores\PostmanDocumentation
  * Date: 10.01.2022
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 class PostmanResourceRegistrar extends ResourceRegistrar
 {
